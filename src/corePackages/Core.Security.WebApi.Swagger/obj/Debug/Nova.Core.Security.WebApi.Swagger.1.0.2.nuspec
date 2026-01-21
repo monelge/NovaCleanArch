@@ -7,7 +7,7 @@
     <authors>Core.Security.WebApi.Swagger</authors>
     <description>Provides utilities for integrating security features with ASP.NET Web API projects,
       focusing on Swagger integration.</description>
-    <repository type="git" commit="2f0baf098df5dcdabcba43b70fa30fba5fb32efd" />
+    <repository type="git" commit="ee8276045336f8a0acdc7f5620d370abe62e7b67" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="Swashbuckle.AspNetCore.SwaggerGen" version="6.7.3" exclude="Build,Analyzers" />

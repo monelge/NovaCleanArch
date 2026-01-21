@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute(("Provides utilities for integrating security features with ASP.NET Web API project" +
     "s,\n      focusing on Swagger integration."))]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.2.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2+2f0baf098df5dcdabcba43b70fa30fba5fb32efd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2+ee8276045336f8a0acdc7f5620d370abe62e7b67")]
 [assembly: System.Reflection.AssemblyProductAttribute("Core.Security.WebApi.Swagger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Core.Security.WebApi.Swagger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.2.0")]

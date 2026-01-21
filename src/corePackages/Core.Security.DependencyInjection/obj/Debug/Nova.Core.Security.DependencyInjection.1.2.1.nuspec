@@ -6,7 +6,7 @@
     <title>Nova Core.Security.DependencyInjection</title>
     <authors>Core.Security.DependencyInjection</authors>
     <description>Provides dependency injection extensions for Nova.Core.Security.</description>
-    <repository type="git" commit="2f0baf098df5dcdabcba43b70fa30fba5fb32efd" />
+    <repository type="git" commit="ee8276045336f8a0acdc7f5620d370abe62e7b67" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="Nova.Core.Security" version="1.3.3" exclude="Build,Analyzers" />

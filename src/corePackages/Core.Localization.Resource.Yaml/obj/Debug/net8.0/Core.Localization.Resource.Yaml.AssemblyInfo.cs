@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Provide YAML-based resource management for localization.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.3.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.3+2f0baf098df5dcdabcba43b70fa30fba5fb32efd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.3+ee8276045336f8a0acdc7f5620d370abe62e7b67")]
 [assembly: System.Reflection.AssemblyProductAttribute("Core.Localization.Resource.Yaml")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Core.Localization.Resource.Yaml")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.3.0")]

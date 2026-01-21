@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute(("Provide exception handling components specifically tailored for ASP.NET Web API\n " +
     "     projects."))]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.1.3.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.3+2f0baf098df5dcdabcba43b70fa30fba5fb32efd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.3+ee8276045336f8a0acdc7f5620d370abe62e7b67")]
 [assembly: System.Reflection.AssemblyProductAttribute("Core.CrossCuttingConcerns.Exception.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Core.CrossCuttingConcerns.Exception.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.1.3.0")]
