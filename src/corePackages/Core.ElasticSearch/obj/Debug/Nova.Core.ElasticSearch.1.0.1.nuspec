@@ -6,7 +6,7 @@
     <title>Nova Core.ElasticSearch</title>
     <authors>Core.ElasticSearch</authors>
     <description>Provide integration with Elasticsearch for data storage and retrieval.</description>
-    <repository type="git" commit="ee8276045336f8a0acdc7f5620d370abe62e7b67" />
+    <repository type="git" commit="ca9fa65ec52efca6b8d2518c0166a4710e9c45e8" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="Elasticsearch.Net" version="7.17.5" exclude="Build,Analyzers" />

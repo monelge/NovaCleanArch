@@ -6,7 +6,7 @@
     <title>Nova Core.Security</title>
     <authors>Core.Security</authors>
     <description>Provides security utilities for hashing, encryption, JWT, authenticator, and more.</description>
-    <repository type="git" commit="ee8276045336f8a0acdc7f5620d370abe62e7b67" />
+    <repository type="git" commit="ca9fa65ec52efca6b8d2518c0166a4710e9c45e8" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="Nova.Core.Persistence" version="1.1.5" exclude="Build,Analyzers" />

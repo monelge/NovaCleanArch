@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute(("Provides security utilities for hashing, encryption, JWT, authenticator, and more" +
     "."))]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.3.3.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.3.3+ee8276045336f8a0acdc7f5620d370abe62e7b67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.3.3+ca9fa65ec52efca6b8d2518c0166a4710e9c45e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Core.Security")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Core.Security")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.3.3.0")]

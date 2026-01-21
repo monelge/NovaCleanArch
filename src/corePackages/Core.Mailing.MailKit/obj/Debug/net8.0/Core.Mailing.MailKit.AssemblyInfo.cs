@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Provide email sending capabilities using MailKit.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.3.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.3+ee8276045336f8a0acdc7f5620d370abe62e7b67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.3+ca9fa65ec52efca6b8d2518c0166a4710e9c45e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Core.Mailing.MailKit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Core.Mailing.MailKit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.3.0")]

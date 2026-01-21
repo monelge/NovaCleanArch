@@ -7,7 +7,7 @@
     <authors>Core.CrossCuttingConcerns.Logging.DependencyInjection</authors>
     <description>Provide dependency injection extensions for
       Nova.Core.CrossCuttingConcerns.Logging.</description>
-    <repository type="git" commit="ee8276045336f8a0acdc7f5620d370abe62e7b67" />
+    <repository type="git" commit="ca9fa65ec52efca6b8d2518c0166a4710e9c45e8" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="Nova.Core.CrossCuttingConcerns.Logging.Abstraction" version="1.0.1" exclude="Build,Analyzers" />

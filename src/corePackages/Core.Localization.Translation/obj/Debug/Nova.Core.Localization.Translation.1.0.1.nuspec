@@ -7,7 +7,7 @@
     <authors>Core.Localization.Translation</authors>
     <description>Provide a translation localization manager for efficient multilingual content
       management.</description>
-    <repository type="git" commit="ee8276045336f8a0acdc7f5620d370abe62e7b67" />
+    <repository type="git" commit="ca9fa65ec52efca6b8d2518c0166a4710e9c45e8" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="Nova.Core.Localization.Abstraction" version="1.0.1" exclude="Build,Analyzers" />

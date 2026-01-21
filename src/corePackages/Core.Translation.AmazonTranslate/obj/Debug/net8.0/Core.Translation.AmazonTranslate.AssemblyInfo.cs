@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Provides integration with Amazon Translate for translation services.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.4.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.4+ee8276045336f8a0acdc7f5620d370abe62e7b67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.4+ca9fa65ec52efca6b8d2518c0166a4710e9c45e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Core.Translation.AmazonTranslate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Core.Translation.AmazonTranslate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.4.0")]

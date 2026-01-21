@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Provide localization support for ASP.NET Web API.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+ee8276045336f8a0acdc7f5620d370abe62e7b67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+ca9fa65ec52efca6b8d2518c0166a4710e9c45e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Core.Localization.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Core.Localization.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.1.0")]

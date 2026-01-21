@@ -6,7 +6,7 @@
     <title>Nova Core.Translation.AmazonTranslate</title>
     <authors>Core.Translation.AmazonTranslate</authors>
     <description>Provides integration with Amazon Translate for translation services.</description>
-    <repository type="git" commit="ee8276045336f8a0acdc7f5620d370abe62e7b67" />
+    <repository type="git" commit="ca9fa65ec52efca6b8d2518c0166a4710e9c45e8" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="Nova.Core.Translation.Abstraction" version="1.0.1" exclude="Build,Analyzers" />
