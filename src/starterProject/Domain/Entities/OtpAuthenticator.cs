@@ -1,4 +1,4 @@
-﻿namespace Domain.Entities;
+namespace Domain.Entities;
 
 public class OtpAuthenticator : Nova.Core.Security.Entities.OtpAuthenticator<Guid>
 {

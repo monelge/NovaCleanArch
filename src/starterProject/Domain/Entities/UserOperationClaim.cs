@@ -1,4 +1,4 @@
-﻿namespace Domain.Entities;
+namespace Domain.Entities;
 
 public class UserOperationClaim : Nova.Core.Security.Entities.UserOperationClaim<Guid, Guid, int>
 {

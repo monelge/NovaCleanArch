@@ -1,4 +1,4 @@
-﻿namespace Domain.Entities;
+namespace Domain.Entities;
 
 public class User : Nova.Core.Security.Entities.User<Guid>
 {
