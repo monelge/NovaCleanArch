@@ -53,3 +53,4 @@
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/starterProject/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/starterProject/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/starterProject/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/starterProject/Infrastructure/obj/Debug/net8.0/Infrastructure.sourcelink.json

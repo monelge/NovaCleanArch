@@ -9,3 +9,4 @@
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Translation.Abstraction/obj/Debug/net8.0/refint/Core.Translation.Abstraction.dll
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Translation.Abstraction/obj/Debug/net8.0/Core.Translation.Abstraction.pdb
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Translation.Abstraction/obj/Debug/net8.0/ref/Core.Translation.Abstraction.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Translation.Abstraction/obj/Debug/net8.0/Core.Translation.Abstraction.sourcelink.json

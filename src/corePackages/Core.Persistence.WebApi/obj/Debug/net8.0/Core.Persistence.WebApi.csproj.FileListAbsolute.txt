@@ -13,3 +13,4 @@
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Persistence.WebApi/obj/Debug/net8.0/refint/Core.Persistence.WebApi.dll
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Persistence.WebApi/obj/Debug/net8.0/Core.Persistence.WebApi.pdb
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Persistence.WebApi/obj/Debug/net8.0/ref/Core.Persistence.WebApi.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Persistence.WebApi/obj/Debug/net8.0/Core.Persistence.WebApi.sourcelink.json

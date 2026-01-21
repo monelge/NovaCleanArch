@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Provide integration with Serilog for file logging.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.3.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.3+2f0baf098df5dcdabcba43b70fa30fba5fb32efd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Core.CrossCuttingConcerns.Logging.Serilog.File")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Core.CrossCuttingConcerns.Logging.Serilog.File")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.3.0")]

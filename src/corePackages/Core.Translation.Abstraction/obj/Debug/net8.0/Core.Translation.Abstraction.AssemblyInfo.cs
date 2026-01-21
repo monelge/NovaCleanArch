@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Provides abstractions for translation services.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+2f0baf098df5dcdabcba43b70fa30fba5fb32efd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Core.Translation.Abstraction")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Core.Translation.Abstraction")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.1.0")]

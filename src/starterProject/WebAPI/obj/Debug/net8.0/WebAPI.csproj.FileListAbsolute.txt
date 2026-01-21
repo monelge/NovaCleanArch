@@ -221,3 +221,4 @@
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/starterProject/WebAPI/obj/Debug/net8.0/WebAPI.pdb
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/starterProject/WebAPI/obj/Debug/net8.0/WebAPI.genruntimeconfig.cache
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/starterProject/WebAPI/obj/Debug/net8.0/ref/WebAPI.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/starterProject/WebAPI/obj/Debug/net8.0/WebAPI.sourcelink.json

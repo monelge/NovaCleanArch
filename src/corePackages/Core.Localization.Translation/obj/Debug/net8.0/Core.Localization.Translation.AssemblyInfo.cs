@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute(("Provide a translation localization manager for efficient multilingual content\n   " +
     "   management."))]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+2f0baf098df5dcdabcba43b70fa30fba5fb32efd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Core.Localization.Translation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Core.Localization.Translation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.1.0")]

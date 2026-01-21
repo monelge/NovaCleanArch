@@ -6,7 +6,7 @@
     <title>Nova Core.Persistence</title>
     <authors>Core.Persistence</authors>
     <description>Provides persistence utilities for data access using Entity Framework Core.</description>
-    <repository type="git" />
+    <repository type="git" commit="2f0baf098df5dcdabcba43b70fa30fba5fb32efd" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="Microsoft.EntityFrameworkCore" version="8.0.8" exclude="Build,Analyzers" />

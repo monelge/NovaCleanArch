@@ -6,7 +6,7 @@
     <title>Nova Core.Translation.Abstraction</title>
     <authors>Core.Translation.Abstraction</authors>
     <description>Provides abstractions for translation services.</description>
-    <repository type="git" />
+    <repository type="git" commit="2f0baf098df5dcdabcba43b70fa30fba5fb32efd" />
     <dependencies>
       <group targetFramework="net8.0" />
     </dependencies>

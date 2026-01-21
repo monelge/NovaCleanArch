@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute(("Provides utilities for integrating persistence services with ASP.NET Web API\n    " +
     "  projects."))]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.2.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2+2f0baf098df5dcdabcba43b70fa30fba5fb32efd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Core.Persistence.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Core.Persistence.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.2.0")]

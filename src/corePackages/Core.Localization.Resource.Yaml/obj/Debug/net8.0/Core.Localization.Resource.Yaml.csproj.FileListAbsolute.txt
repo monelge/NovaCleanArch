@@ -13,3 +13,4 @@
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Localization.Resource.Yaml/obj/Debug/net8.0/refint/Core.Localization.Resource.Yaml.dll
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Localization.Resource.Yaml/obj/Debug/net8.0/Core.Localization.Resource.Yaml.pdb
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Localization.Resource.Yaml/obj/Debug/net8.0/ref/Core.Localization.Resource.Yaml.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Localization.Resource.Yaml/obj/Debug/net8.0/Core.Localization.Resource.Yaml.sourcelink.json

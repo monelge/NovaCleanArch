@@ -13,3 +13,4 @@
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Translation.AmazonTranslate/obj/Debug/net8.0/refint/Core.Translation.AmazonTranslate.dll
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Translation.AmazonTranslate/obj/Debug/net8.0/Core.Translation.AmazonTranslate.pdb
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Translation.AmazonTranslate/obj/Debug/net8.0/ref/Core.Translation.AmazonTranslate.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Translation.AmazonTranslate/obj/Debug/net8.0/Core.Translation.AmazonTranslate.sourcelink.json

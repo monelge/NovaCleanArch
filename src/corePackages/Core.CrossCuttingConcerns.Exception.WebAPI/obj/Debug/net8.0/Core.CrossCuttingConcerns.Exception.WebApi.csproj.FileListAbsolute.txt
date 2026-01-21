@@ -17,3 +17,4 @@
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Exception.WebAPI/obj/Debug/net8.0/refint/Core.CrossCuttingConcerns.Exception.WebApi.dll
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Exception.WebAPI/obj/Debug/net8.0/Core.CrossCuttingConcerns.Exception.WebApi.pdb
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Exception.WebAPI/obj/Debug/net8.0/ref/Core.CrossCuttingConcerns.Exception.WebApi.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Exception.WebAPI/obj/Debug/net8.0/Core.CrossCuttingConcerns.Exception.WebApi.sourcelink.json

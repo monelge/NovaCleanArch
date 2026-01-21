@@ -15,3 +15,4 @@
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Localization.Resource.Yaml.DependencyInjection/obj/Debug/net8.0/refint/Core.Localization.Resource.Yaml.DependencyInjection.dll
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Localization.Resource.Yaml.DependencyInjection/obj/Debug/net8.0/Core.Localization.Resource.Yaml.DependencyInjection.pdb
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Localization.Resource.Yaml.DependencyInjection/obj/Debug/net8.0/ref/Core.Localization.Resource.Yaml.DependencyInjection.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Localization.Resource.Yaml.DependencyInjection/obj/Debug/net8.0/Core.Localization.Resource.Yaml.DependencyInjection.sourcelink.json

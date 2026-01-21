@@ -6,7 +6,7 @@
     <title>Nova Core.Localization.Abstraction</title>
     <authors>Core.Localization.Abstraction</authors>
     <description>Provide abstractions for localization.</description>
-    <repository type="git" />
+    <repository type="git" commit="2f0baf098df5dcdabcba43b70fa30fba5fb32efd" />
     <dependencies>
       <group targetFramework="net8.0" />
     </dependencies>

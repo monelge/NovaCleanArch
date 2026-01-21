@@ -10,3 +10,4 @@
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.ElasticSearch/obj/Debug/net8.0/refint/Core.ElasticSearch.dll
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.ElasticSearch/obj/Debug/net8.0/Core.ElasticSearch.pdb
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.ElasticSearch/obj/Debug/net8.0/ref/Core.ElasticSearch.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.ElasticSearch/obj/Debug/net8.0/Core.ElasticSearch.sourcelink.json

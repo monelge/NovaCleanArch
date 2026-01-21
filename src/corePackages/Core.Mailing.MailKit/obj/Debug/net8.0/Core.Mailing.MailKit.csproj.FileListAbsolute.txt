@@ -13,3 +13,4 @@
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing.MailKit/obj/Debug/net8.0/refint/Core.Mailing.MailKit.dll
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing.MailKit/obj/Debug/net8.0/Core.Mailing.MailKit.pdb
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing.MailKit/obj/Debug/net8.0/ref/Core.Mailing.MailKit.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing.MailKit/obj/Debug/net8.0/Core.Mailing.MailKit.sourcelink.json

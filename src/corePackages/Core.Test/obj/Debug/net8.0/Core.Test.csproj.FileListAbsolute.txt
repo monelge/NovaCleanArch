@@ -27,3 +27,4 @@
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Test/obj/Debug/net8.0/refint/Core.Test.dll
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Test/obj/Debug/net8.0/Core.Test.pdb
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Test/obj/Debug/net8.0/ref/Core.Test.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Test/obj/Debug/net8.0/Core.Test.sourcelink.json

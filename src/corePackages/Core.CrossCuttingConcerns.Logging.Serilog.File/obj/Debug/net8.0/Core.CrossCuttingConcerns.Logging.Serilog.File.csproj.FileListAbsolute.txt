@@ -17,3 +17,4 @@
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Logging.Serilog.File/obj/Debug/net8.0/refint/Core.CrossCuttingConcerns.Logging.Serilog.File.dll
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Logging.Serilog.File/obj/Debug/net8.0/Core.CrossCuttingConcerns.Logging.Serilog.File.pdb
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Logging.Serilog.File/obj/Debug/net8.0/ref/Core.CrossCuttingConcerns.Logging.Serilog.File.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Logging.Serilog.File/obj/Debug/net8.0/Core.CrossCuttingConcerns.Logging.Serilog.File.sourcelink.json

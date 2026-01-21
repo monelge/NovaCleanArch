@@ -6,7 +6,7 @@
     <title>Nova Core.Localization.Resource.Yaml</title>
     <authors>Core.Localization.Resource.Yaml</authors>
     <description>Provide YAML-based resource management for localization.</description>
-    <repository type="git" />
+    <repository type="git" commit="2f0baf098df5dcdabcba43b70fa30fba5fb32efd" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="Nova.Core.Localization.Abstraction" version="1.0.1" exclude="Build,Analyzers" />

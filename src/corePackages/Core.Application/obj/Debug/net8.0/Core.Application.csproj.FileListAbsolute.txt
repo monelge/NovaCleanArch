@@ -21,3 +21,4 @@
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Application/obj/Debug/net8.0/refint/Core.Application.dll
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Application/obj/Debug/net8.0/Core.Application.pdb
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Application/obj/Debug/net8.0/ref/Core.Application.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Application/obj/Debug/net8.0/Core.Application.sourcelink.json

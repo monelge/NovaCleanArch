@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Provides dependency injection extensions for Nova.Core.Security.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.2.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.2.1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.2.1+2f0baf098df5dcdabcba43b70fa30fba5fb32efd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Core.Security.DependencyInjection")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Core.Security.DependencyInjection")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.2.1.0")]

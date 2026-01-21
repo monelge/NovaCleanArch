@@ -13,3 +13,4 @@
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Localization.WebApi/obj/Debug/net8.0/refint/Core.Localization.WebApi.dll
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Localization.WebApi/obj/Debug/net8.0/Core.Localization.WebApi.pdb
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Localization.WebApi/obj/Debug/net8.0/ref/Core.Localization.WebApi.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Localization.WebApi/obj/Debug/net8.0/Core.Localization.WebApi.sourcelink.json

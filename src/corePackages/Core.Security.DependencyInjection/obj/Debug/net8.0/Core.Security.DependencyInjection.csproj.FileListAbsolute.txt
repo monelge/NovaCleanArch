@@ -15,3 +15,4 @@
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Security.DependencyInjection/obj/Debug/net8.0/refint/Core.Security.DependencyInjection.dll
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Security.DependencyInjection/obj/Debug/net8.0/Core.Security.DependencyInjection.pdb
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Security.DependencyInjection/obj/Debug/net8.0/ref/Core.Security.DependencyInjection.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Security.DependencyInjection/obj/Debug/net8.0/Core.Security.DependencyInjection.sourcelink.json

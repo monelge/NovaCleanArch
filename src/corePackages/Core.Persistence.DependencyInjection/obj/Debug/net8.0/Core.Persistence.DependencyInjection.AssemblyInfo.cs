@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Provides dependency injection extensions for Nova.Core.Persistence.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.2.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2+2f0baf098df5dcdabcba43b70fa30fba5fb32efd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Core.Persistence.DependencyInjection")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Core.Persistence.DependencyInjection")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.2.0")]

@@ -9,3 +9,4 @@
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Localization.Abstraction/obj/Debug/net8.0/refint/Core.Localization.Abstraction.dll
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Localization.Abstraction/obj/Debug/net8.0/Core.Localization.Abstraction.pdb
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Localization.Abstraction/obj/Debug/net8.0/ref/Core.Localization.Abstraction.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Localization.Abstraction/obj/Debug/net8.0/Core.Localization.Abstraction.sourcelink.json

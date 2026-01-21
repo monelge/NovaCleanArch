@@ -13,3 +13,4 @@
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Logging.DependencyInjection/obj/Debug/net8.0/refint/Core.CrossCuttingConcerns.Logging.DependencyInjection.dll
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Logging.DependencyInjection/obj/Debug/net8.0/Core.CrossCuttingConcerns.Logging.DependencyInjection.pdb
 /Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Logging.DependencyInjection/obj/Debug/net8.0/ref/Core.CrossCuttingConcerns.Logging.DependencyInjection.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Logging.DependencyInjection/obj/Debug/net8.0/Core.CrossCuttingConcerns.Logging.DependencyInjection.sourcelink.json

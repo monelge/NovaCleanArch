@@ -7,7 +7,7 @@
     <authors>Core.CrossCuttingConcerns.Exception.WebApi</authors>
     <description>Provide exception handling components specifically tailored for ASP.NET Web API
       projects.</description>
-    <repository type="git" />
+    <repository type="git" commit="2f0baf098df5dcdabcba43b70fa30fba5fb32efd" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="Nova.Core.CrossCuttingConcerns.Exception" version="1.0.2" exclude="Build,Analyzers" />

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute(("Provide dependency injection extensions for\n      Nova.Core.CrossCuttingConcerns." +
     "Logging."))]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.2.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2+2f0baf098df5dcdabcba43b70fa30fba5fb32efd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Core.CrossCuttingConcerns.Logging.DependencyInjection")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Core.CrossCuttingConcerns.Logging.DependencyInjection")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.2.0")]

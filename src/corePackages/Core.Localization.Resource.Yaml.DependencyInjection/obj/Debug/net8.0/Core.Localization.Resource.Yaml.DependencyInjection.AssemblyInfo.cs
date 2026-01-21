@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute(("Provide dependency injection extensions for YAML-based resource management for\n  " +
     "    Nova.Core.Localization.Resource.Yaml."))]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.2.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2+2f0baf098df5dcdabcba43b70fa30fba5fb32efd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Core.Localization.Resource.Yaml.DependencyInjection")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Core.Localization.Resource.Yaml.DependencyInjection")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.2.0")]
