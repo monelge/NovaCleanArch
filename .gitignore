@@ -1,9 +1,4 @@
-# macOS
-.DS_Store
-
-# IDE / tooling
 .idea/
-.idea.*/
 .vs/
 *.suo
 *.user
@@ -15,49 +10,34 @@
 **/obj/
 **/out/
 
-# Packages / tooling caches
+# NuGet / packages
 .nuget/packages/
 packages/
 *.nupkg
 *.snupkg
+*.nuspec
 
-# Logs
+# Logs / test
 *.log
 TestResult*/
 TestResults/
-
-# Rider/Resharper
-_ReSharper*/
-*.DotSettings.user
+*.coverage
+*.coveragexml
 
 # Binaries
 *.dll
 *.pdb
-
-# .NET build artifacts
 *.exe
-*.app
-*.apk
-*.apks
-*.aab
-*.appx
-*.appxbundle
-*.msix
-*.msixbundle
-*.psess
-*.vsp
-*.vspx
-*.coverage
-*.coveragexml
-*.build.csdef
-project.lock.json
-project.fragment.lock.json
-artifacts/
-.vsconfig
+
+# Tooling
+_ReSharper*/
+*.DotSettings.user
 .sonarqube/
 .scannerwork/
-.idea/
-*.userprefs
+.vsconfig
+
+# Temp
+*.tmp
 *.swp
 *.swo
-*.tmp
+*.userprefs
