@@ -1,0 +1,63 @@
+# macOS
+.DS_Store
+
+# IDE / tooling
+.idea/
+.idea.*/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+**/bin/
+**/obj/
+**/out/
+
+# Packages / tooling caches
+.nuget/packages/
+packages/
+*.nupkg
+*.snupkg
+
+# Logs
+*.log
+TestResult*/
+TestResults/
+
+# Rider/Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Binaries
+*.dll
+*.pdb
+
+# .NET build artifacts
+*.exe
+*.app
+*.apk
+*.apks
+*.aab
+*.appx
+*.appxbundle
+*.msix
+*.msixbundle
+*.psess
+*.vsp
+*.vspx
+*.coverage
+*.coveragexml
+*.build.csdef
+project.lock.json
+project.fragment.lock.json
+artifacts/
+.vsconfig
+.sonarqube/
+.scannerwork/
+.idea/
+*.userprefs
+*.swp
+*.swo
+*.tmp
