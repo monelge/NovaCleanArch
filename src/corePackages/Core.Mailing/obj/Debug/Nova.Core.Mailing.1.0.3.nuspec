@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Nova.Core.Mailing</id>
+    <version>1.0.3</version>
+    <title>Nova Core.Mailing</title>
+    <authors>Core.Mailing</authors>
+    <description>Provide models for email sending capabilities.</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="MimeKit" version="4.7.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing/bin/Debug/net8.0/Core.Mailing.dll" target="lib/net8.0/Core.Mailing.dll" />
+  </files>
+</package>

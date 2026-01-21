@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>Nova.$(AssemblyName)</RootNamespace>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>Nova.$(AssemblyName)</PackageId>
+    <Version>1.0.1</Version>
+    <Title>Nova $(AssemblyName)</Title>
+    <Description>Provides dependency injection extensions for
+      Nova.Core.Translation.AmazonTranslate.</Description>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference
+      Include="..\Core.Translation.AmazonTranslate\Core.Translation.AmazonTranslate.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />
+  </ItemGroup>
+</Project>

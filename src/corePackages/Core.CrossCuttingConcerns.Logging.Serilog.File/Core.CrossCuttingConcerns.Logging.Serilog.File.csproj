@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>Nova.$(AssemblyName)</RootNamespace>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>Nova.$(AssemblyName)</PackageId>
+    <Version>1.0.3</Version>
+    <Title>Nova $(AssemblyName)</Title>
+    <Description>Provide integration with Serilog for file logging.</Description>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Serilog.Sinks.File" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core.CrossCuttingConcerns.Logging.SeriLog\Core.CrossCuttingConcerns.Logging.Serilog.csproj" />
+    <ProjectReference Include="..\Core.CrossCuttingConcerns.Logging\Core.CrossCuttingConcerns.Logging.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Core.CrossCuttingConcerns.Logging.Serilog">
+      <HintPath>..\Core.CrossCuttingConcerns.Logging.SeriLog\bin\Debug\net8.0\Core.CrossCuttingConcerns.Logging.Serilog.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

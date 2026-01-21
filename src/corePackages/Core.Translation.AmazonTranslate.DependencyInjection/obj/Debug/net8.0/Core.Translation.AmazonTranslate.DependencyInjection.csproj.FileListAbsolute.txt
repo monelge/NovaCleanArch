@@ -1,0 +1,17 @@
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Translation.AmazonTranslate.DependencyInjection/bin/Debug/net8.0/Core.Translation.AmazonTranslate.DependencyInjection.deps.json
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Translation.AmazonTranslate.DependencyInjection/bin/Debug/net8.0/Core.Translation.AmazonTranslate.DependencyInjection.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Translation.AmazonTranslate.DependencyInjection/bin/Debug/net8.0/Core.Translation.AmazonTranslate.DependencyInjection.pdb
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Translation.AmazonTranslate.DependencyInjection/bin/Debug/net8.0/Core.Translation.Abstraction.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Translation.AmazonTranslate.DependencyInjection/bin/Debug/net8.0/Core.Translation.AmazonTranslate.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Translation.AmazonTranslate.DependencyInjection/bin/Debug/net8.0/Core.Translation.AmazonTranslate.pdb
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Translation.AmazonTranslate.DependencyInjection/bin/Debug/net8.0/Core.Translation.Abstraction.pdb
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Translation.AmazonTranslate.DependencyInjection/obj/Debug/net8.0/Core.Translation.AmazonTranslate.DependencyInjection.csproj.AssemblyReference.cache
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Translation.AmazonTranslate.DependencyInjection/obj/Debug/net8.0/Core.Translation.AmazonTranslate.DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Translation.AmazonTranslate.DependencyInjection/obj/Debug/net8.0/Core.Translation.AmazonTranslate.DependencyInjection.AssemblyInfoInputs.cache
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Translation.AmazonTranslate.DependencyInjection/obj/Debug/net8.0/Core.Translation.AmazonTranslate.DependencyInjection.AssemblyInfo.cs
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Translation.AmazonTranslate.DependencyInjection/obj/Debug/net8.0/Core.Translation.AmazonTranslate.DependencyInjection.csproj.CoreCompileInputs.cache
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Translation.AmazonTranslate.DependencyInjection/obj/Debug/net8.0/Core.Tra.4F009C96.Up2Date
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Translation.AmazonTranslate.DependencyInjection/obj/Debug/net8.0/Core.Translation.AmazonTranslate.DependencyInjection.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Translation.AmazonTranslate.DependencyInjection/obj/Debug/net8.0/refint/Core.Translation.AmazonTranslate.DependencyInjection.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Translation.AmazonTranslate.DependencyInjection/obj/Debug/net8.0/Core.Translation.AmazonTranslate.DependencyInjection.pdb
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Translation.AmazonTranslate.DependencyInjection/obj/Debug/net8.0/ref/Core.Translation.AmazonTranslate.DependencyInjection.dll

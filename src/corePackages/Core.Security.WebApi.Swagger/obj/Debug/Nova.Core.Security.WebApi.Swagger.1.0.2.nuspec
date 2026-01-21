@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Nova.Core.Security.WebApi.Swagger</id>
+    <version>1.0.2</version>
+    <title>Nova Core.Security.WebApi.Swagger</title>
+    <authors>Core.Security.WebApi.Swagger</authors>
+    <description>Provides utilities for integrating security features with ASP.NET Web API projects,
+      focusing on Swagger integration.</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Swashbuckle.AspNetCore.SwaggerGen" version="6.7.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Security.WebApi.Swagger/bin/Debug/net8.0/Core.Security.WebApi.Swagger.dll" target="lib/net8.0/Core.Security.WebApi.Swagger.dll" />
+  </files>
+</package>

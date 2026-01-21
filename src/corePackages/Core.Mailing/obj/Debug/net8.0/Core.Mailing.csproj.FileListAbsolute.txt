@@ -1,0 +1,12 @@
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing/bin/Debug/net8.0/Core.Mailing.deps.json
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing/bin/Debug/net8.0/Core.Mailing.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing/bin/Debug/net8.0/Core.Mailing.pdb
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing/obj/Debug/net8.0/Core.Mailing.csproj.AssemblyReference.cache
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing/obj/Debug/net8.0/Core.Mailing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing/obj/Debug/net8.0/Core.Mailing.AssemblyInfoInputs.cache
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing/obj/Debug/net8.0/Core.Mailing.AssemblyInfo.cs
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing/obj/Debug/net8.0/Core.Mailing.csproj.CoreCompileInputs.cache
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing/obj/Debug/net8.0/Core.Mailing.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing/obj/Debug/net8.0/refint/Core.Mailing.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing/obj/Debug/net8.0/Core.Mailing.pdb
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing/obj/Debug/net8.0/ref/Core.Mailing.dll

@@ -1,0 +1,445 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Application/Core.Application.csproj": {}
+  },
+  "projects": {
+    "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Application/Core.Application.csproj": {
+      "version": "1.0.7",
+      "restore": {
+        "projectUniqueName": "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Application/Core.Application.csproj",
+        "projectName": "Nova.Core.Application",
+        "projectPath": "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Application/Core.Application.csproj",
+        "packagesPath": "/Users/monelge/.nuget/packages/",
+        "outputPath": "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/monelge/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Exception/Core.CrossCuttingConcerns.Exception.csproj": {
+                "projectPath": "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Exception/Core.CrossCuttingConcerns.Exception.csproj"
+              },
+              "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Logging.Abstraction/Core.CrossCuttingConcerns.Logging.Abstraction.csproj": {
+                "projectPath": "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Logging.Abstraction/Core.CrossCuttingConcerns.Logging.Abstraction.csproj"
+              },
+              "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Logging/Core.CrossCuttingConcerns.Logging.csproj": {
+                "projectPath": "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Logging/Core.CrossCuttingConcerns.Logging.csproj"
+              },
+              "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Security/Core.Security.csproj": {
+                "projectPath": "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Security/Core.Security.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.Text.Encodings.Web": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Exception/Core.CrossCuttingConcerns.Exception.csproj": {
+      "version": "1.0.2",
+      "restore": {
+        "projectUniqueName": "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Exception/Core.CrossCuttingConcerns.Exception.csproj",
+        "projectName": "Nova.Core.CrossCuttingConcerns.Exception",
+        "projectPath": "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Exception/Core.CrossCuttingConcerns.Exception.csproj",
+        "packagesPath": "/Users/monelge/.nuget/packages/",
+        "outputPath": "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Exception/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/monelge/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Logging.Abstraction/Core.CrossCuttingConcerns.Logging.Abstraction.csproj": {
+      "version": "1.0.1",
+      "restore": {
+        "projectUniqueName": "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Logging.Abstraction/Core.CrossCuttingConcerns.Logging.Abstraction.csproj",
+        "projectName": "Nova.Core.CrossCuttingConcerns.Logging.Abstraction",
+        "projectPath": "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Logging.Abstraction/Core.CrossCuttingConcerns.Logging.Abstraction.csproj",
+        "packagesPath": "/Users/monelge/.nuget/packages/",
+        "outputPath": "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Logging.Abstraction/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/monelge/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Logging/Core.CrossCuttingConcerns.Logging.csproj": {
+      "version": "1.0.1",
+      "restore": {
+        "projectUniqueName": "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Logging/Core.CrossCuttingConcerns.Logging.csproj",
+        "projectName": "Nova.Core.CrossCuttingConcerns.Logging",
+        "projectPath": "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Logging/Core.CrossCuttingConcerns.Logging.csproj",
+        "packagesPath": "/Users/monelge/.nuget/packages/",
+        "outputPath": "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Logging/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/monelge/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Persistence/Core.Persistence.csproj": {
+      "version": "1.1.5",
+      "restore": {
+        "projectUniqueName": "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Persistence/Core.Persistence.csproj",
+        "projectName": "Nova.Core.Persistence",
+        "projectPath": "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Persistence/Core.Persistence.csproj",
+        "packagesPath": "/Users/monelge/.nuget/packages/",
+        "outputPath": "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/monelge/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Security/Core.Security.csproj": {
+      "version": "1.3.3",
+      "restore": {
+        "projectUniqueName": "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Security/Core.Security.csproj",
+        "projectName": "Nova.Core.Security",
+        "projectPath": "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Security/Core.Security.csproj",
+        "packagesPath": "/Users/monelge/.nuget/packages/",
+        "outputPath": "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Security/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/monelge/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Persistence/Core.Persistence.csproj": {
+                "projectPath": "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Persistence/Core.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Otp.NET": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

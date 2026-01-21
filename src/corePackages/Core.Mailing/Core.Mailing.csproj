@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>Nova.$(AssemblyName)</RootNamespace>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>Nova.$(AssemblyName)</PackageId>
+    <Version>1.0.3</Version>
+    <Title>Nova $(AssemblyName)</Title>
+    <Description>Provide models for email sending capabilities.</Description>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="MimeKit" Version="4.7.1" />
+  </ItemGroup>
+</Project>

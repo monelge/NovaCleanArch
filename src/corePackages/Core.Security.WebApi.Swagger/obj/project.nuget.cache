@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z4DX3hHO50c=",
+  "success": true,
+  "projectFilePath": "/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Security.WebApi.Swagger/Core.Security.WebApi.Swagger.csproj",
+  "expectedPackageFiles": [
+    "/Users/monelge/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
+    "/Users/monelge/.nuget/packages/swashbuckle.aspnetcore.swagger/6.7.3/swashbuckle.aspnetcore.swagger.6.7.3.nupkg.sha512",
+    "/Users/monelge/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.7.3/swashbuckle.aspnetcore.swaggergen.6.7.3.nupkg.sha512"
+  ],
+  "logs": []
+}

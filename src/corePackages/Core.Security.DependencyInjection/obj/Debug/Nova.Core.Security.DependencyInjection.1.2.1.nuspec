@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Nova.Core.Security.DependencyInjection</id>
+    <version>1.2.1</version>
+    <title>Nova Core.Security.DependencyInjection</title>
+    <authors>Core.Security.DependencyInjection</authors>
+    <description>Provides dependency injection extensions for Nova.Core.Security.</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Nova.Core.Security" version="1.3.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Security.DependencyInjection/bin/Debug/net8.0/Core.Security.DependencyInjection.dll" target="lib/net8.0/Core.Security.DependencyInjection.dll" />
+  </files>
+</package>

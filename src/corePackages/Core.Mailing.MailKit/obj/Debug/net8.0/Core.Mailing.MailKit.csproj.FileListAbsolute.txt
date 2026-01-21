@@ -1,0 +1,15 @@
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing.MailKit/bin/Debug/net8.0/Core.Mailing.MailKit.deps.json
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing.MailKit/bin/Debug/net8.0/Core.Mailing.MailKit.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing.MailKit/bin/Debug/net8.0/Core.Mailing.MailKit.pdb
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing.MailKit/bin/Debug/net8.0/Core.Mailing.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing.MailKit/bin/Debug/net8.0/Core.Mailing.pdb
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing.MailKit/obj/Debug/net8.0/Core.Mailing.MailKit.csproj.AssemblyReference.cache
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing.MailKit/obj/Debug/net8.0/Core.Mailing.MailKit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing.MailKit/obj/Debug/net8.0/Core.Mailing.MailKit.AssemblyInfoInputs.cache
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing.MailKit/obj/Debug/net8.0/Core.Mailing.MailKit.AssemblyInfo.cs
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing.MailKit/obj/Debug/net8.0/Core.Mailing.MailKit.csproj.CoreCompileInputs.cache
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing.MailKit/obj/Debug/net8.0/Core.Mai.41D3B8B8.Up2Date
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing.MailKit/obj/Debug/net8.0/Core.Mailing.MailKit.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing.MailKit/obj/Debug/net8.0/refint/Core.Mailing.MailKit.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing.MailKit/obj/Debug/net8.0/Core.Mailing.MailKit.pdb
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Mailing.MailKit/obj/Debug/net8.0/ref/Core.Mailing.MailKit.dll

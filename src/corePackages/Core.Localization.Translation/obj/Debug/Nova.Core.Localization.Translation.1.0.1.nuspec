@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Nova.Core.Localization.Translation</id>
+    <version>1.0.1</version>
+    <title>Nova Core.Localization.Translation</title>
+    <authors>Core.Localization.Translation</authors>
+    <description>Provide a translation localization manager for efficient multilingual content
+      management.</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Nova.Core.Localization.Abstraction" version="1.0.1" exclude="Build,Analyzers" />
+        <dependency id="Nova.Core.Translation.Abstraction" version="1.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Localization.Translation/bin/Debug/net8.0/Core.Localization.Translation.dll" target="lib/net8.0/Core.Localization.Translation.dll" />
+  </files>
+</package>

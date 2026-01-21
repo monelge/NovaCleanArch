@@ -1,0 +1,15 @@
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Persistence.DependencyInjection/bin/Debug/net8.0/Core.Persistence.DependencyInjection.deps.json
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Persistence.DependencyInjection/bin/Debug/net8.0/Core.Persistence.DependencyInjection.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Persistence.DependencyInjection/bin/Debug/net8.0/Core.Persistence.DependencyInjection.pdb
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Persistence.DependencyInjection/bin/Debug/net8.0/Core.Persistence.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Persistence.DependencyInjection/bin/Debug/net8.0/Core.Persistence.pdb
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Persistence.DependencyInjection/obj/Debug/net8.0/Core.Persistence.DependencyInjection.csproj.AssemblyReference.cache
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Persistence.DependencyInjection/obj/Debug/net8.0/Core.Persistence.DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Persistence.DependencyInjection/obj/Debug/net8.0/Core.Persistence.DependencyInjection.AssemblyInfoInputs.cache
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Persistence.DependencyInjection/obj/Debug/net8.0/Core.Persistence.DependencyInjection.AssemblyInfo.cs
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Persistence.DependencyInjection/obj/Debug/net8.0/Core.Persistence.DependencyInjection.csproj.CoreCompileInputs.cache
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Persistence.DependencyInjection/obj/Debug/net8.0/Core.Per.D780633D.Up2Date
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Persistence.DependencyInjection/obj/Debug/net8.0/Core.Persistence.DependencyInjection.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Persistence.DependencyInjection/obj/Debug/net8.0/refint/Core.Persistence.DependencyInjection.dll
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Persistence.DependencyInjection/obj/Debug/net8.0/Core.Persistence.DependencyInjection.pdb
+/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Persistence.DependencyInjection/obj/Debug/net8.0/ref/Core.Persistence.DependencyInjection.dll

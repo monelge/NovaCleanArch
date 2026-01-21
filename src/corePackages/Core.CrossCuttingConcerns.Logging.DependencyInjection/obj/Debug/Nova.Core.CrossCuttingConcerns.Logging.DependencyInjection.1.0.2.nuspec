@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Nova.Core.CrossCuttingConcerns.Logging.DependencyInjection</id>
+    <version>1.0.2</version>
+    <title>Nova Core.CrossCuttingConcerns.Logging.DependencyInjection</title>
+    <authors>Core.CrossCuttingConcerns.Logging.DependencyInjection</authors>
+    <description>Provide dependency injection extensions for
+      Nova.Core.CrossCuttingConcerns.Logging.</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Nova.Core.CrossCuttingConcerns.Logging.Abstraction" version="1.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="8.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.CrossCuttingConcerns.Logging.DependencyInjection/bin/Debug/net8.0/Core.CrossCuttingConcerns.Logging.DependencyInjection.dll" target="lib/net8.0/Core.CrossCuttingConcerns.Logging.DependencyInjection.dll" />
+  </files>
+</package>

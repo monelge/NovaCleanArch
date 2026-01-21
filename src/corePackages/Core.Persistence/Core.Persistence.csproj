@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>Nova.$(AssemblyName)</RootNamespace>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>Nova.$(AssemblyName)</PackageId>
+    <Version>1.1.5</Version>
+    <Title>Nova $(AssemblyName)</Title>
+    <Description>Provides persistence utilities for data access using Entity Framework Core.</Description>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="System.Linq.Dynamic.Core" Version="1.4.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="8.0.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="8.0.8" />
+  </ItemGroup>
+</Project>

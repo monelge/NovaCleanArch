@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Nova.Core.Test</id>
+    <version>1.0.6</version>
+    <title>Nova Core.Test</title>
+    <authors>Core.Test</authors>
+    <description>Provides utilities for testing.</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Nova.Core.Application" version="1.0.7" exclude="Build,Analyzers" />
+        <dependency id="Nova.Core.Localization.Resource.Yaml" version="1.0.3" exclude="Build,Analyzers" />
+        <dependency id="Nova.Core.Persistence" version="1.1.5" exclude="Build,Analyzers" />
+        <dependency id="AutoMapper" version="13.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="8.0.8" exclude="Build,Analyzers" />
+        <dependency id="Moq" version="4.20.70" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.Test/bin/Debug/net8.0/Core.Test.dll" target="lib/net8.0/Core.Test.dll" />
+  </files>
+</package>

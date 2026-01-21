@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>Nova.$(AssemblyName)</RootNamespace>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>Nova.$(AssemblyName)</PackageId>
+    <Version>1.0.3</Version>
+    <Title>Nova $(AssemblyName)</Title>
+    <Description>Provide YAML-based resource management for localization.</Description>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="YamlDotNet" Version="16.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Core.Localization.Abstraction\Core.Localization.Abstraction.csproj" />
+  </ItemGroup>
+</Project>

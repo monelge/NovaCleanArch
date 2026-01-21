@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Nova.Core.ElasticSearch</id>
+    <version>1.0.1</version>
+    <title>Nova Core.ElasticSearch</title>
+    <authors>Core.ElasticSearch</authors>
+    <description>Provide integration with Elasticsearch for data storage and retrieval.</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Elasticsearch.Net" version="7.17.5" exclude="Build,Analyzers" />
+        <dependency id="NEST" version="7.17.5" exclude="Build,Analyzers" />
+        <dependency id="NEST.JsonNetSerializer" version="7.17.5" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/monelge/RiderProjects/NovaCleanArch/NovaCore/src/corePackages/Core.ElasticSearch/bin/Debug/net8.0/Core.ElasticSearch.dll" target="lib/net8.0/Core.ElasticSearch.dll" />
+  </files>
+</package>
